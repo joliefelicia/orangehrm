@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>mencari username</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f4598047-f1a1-416b-932b-494c75acff56</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>37d98993-4619-4a4b-babf-f20c5ad6f410</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9af64d1b-938f-453a-b158-4ba3b32d8cae</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fc613c9c-3123-47b9-8cfb-2939b33b361e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Admin\r\n'</defaultValue>
+      <description></description>
+      <id>37d98993-4619-4a4b-babf-f20c5ad6f410</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin123\r\n'</defaultValue>
+      <description></description>
+      <id>9af64d1b-938f-453a-b158-4ba3b32d8cae</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'manda user'</defaultValue>
+      <description></description>
+      <id>fc613c9c-3123-47b9-8cfb-2939b33b361e</id>
+      <masked>false</masked>
+      <name>employeername</name>
+   </variable>
+</TestCaseEntity>
