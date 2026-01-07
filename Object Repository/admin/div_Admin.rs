@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Select</name>
+   <name>div_Admin</name>
    <tag></tag>
-   <elementGuidId>17b4daeb-a70f-458e-9083-a2ff0b57d14a</elementGuidId>
+   <elementGuidId>091ee6a1-0b13-42cf-841e-00bc15ab8f82</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>.oxd-grid-item--gutters:nth-child(1) .oxd-select-text-input</value>
+         <value>.oxd-select-option:nth-child(2)</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-grid-item--gutters ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-select-text-input ')]</value>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-select-option ') and (position() = 2)]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,62 +23,62 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>3a59483d-e2d1-44d7-a1b6-89813208cfae</webElementGuid>
+      <webElementGuid>8254312d-78c9-495b-b0ad-aed784a5f730</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>081b2703-7067-4d2e-a051-c62a1e4153af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>oxd-select-text-input</value>
-      <webElementGuid>f8a22bd0-b583-46e2-80e6-192a35cad23b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>0</value>
-      <webElementGuid>200f1c0c-1b3f-4c16-a1dd-50063c9da21c</webElementGuid>
+      <value>oxd-select-option</value>
+      <webElementGuid>c7f545c9-9fbb-499f-805a-73789bf5ed6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>-- Select --</value>
-      <webElementGuid>94c9d131-d6f9-47e5-ad3d-2b88fb4c823c</webElementGuid>
+      <value>Admin</value>
+      <webElementGuid>07916db7-259a-48e0-a89f-2702ad62d121</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-5af2cf2cd34e175d3f21d3b3bb38d7ad</value>
-      <webElementGuid>48438f25-ad15-4a79-93ea-bc6ff1b8a2f7</webElementGuid>
+      <value>md5.v1-4704ba8022624c662ef5275420ee20be</value>
+      <webElementGuid>76b2c835-8c28-44a5-8345-bf5df9933082</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-grid-item--gutters ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-select-text-input ')]</value>
-      <webElementGuid>0df15edb-fd13-4141-ad32-cca371953be6</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-select-option ') and (position() = 2)]</value>
+      <webElementGuid>f1c32f53-fb81-456d-a974-94e4599170c8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-grid-item--gutters ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-select-text-input ')]</value>
-      <webElementGuid>c9350b43-b0c0-466f-b277-e0be9c0d66e5</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-select-option ') and (position() = 2)]</value>
+      <webElementGuid>cb6fedc6-c1d9-44ea-8e91-0e215a0e14a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = '-- Select --' or . = '-- Select --')]</value>
-      <webElementGuid>6318d40c-57b1-4f6c-8b99-730f91cef475</webElementGuid>
+      <value>//div[(text() = 'Admin' or . = 'Admin')]</value>
+      <webElementGuid>52ae555b-a0c9-48c1-8068-58d7faaa5656</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

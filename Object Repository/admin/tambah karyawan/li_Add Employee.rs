@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Admin</name>
+   <name>li_Add Employee</name>
    <tag></tag>
-   <elementGuidId>b8c50cd7-6b65-415a-877a-b770e4f8df96</elementGuidId>
+   <elementGuidId>d582a52b-6efa-4fd9-9628-b2d0783b95ac</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>[href=&quot;\/web\/index\.php\/admin\/viewAdminModule&quot;]</value>
+         <value>.oxd-topbar-body-nav-tab:nth-child(3)</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@href = '/web/index.php/admin/viewAdminModule']</value>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-topbar-body-nav-tab ') and (position() = 3)]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,63 +22,55 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>bc8943fc-f094-4ff8-8c90-6bf97c47d794</webElementGuid>
+      <value>li</value>
+      <webElementGuid>895dfc7b-5a77-4f6b-91d8-ebe729a83d00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>oxd-main-menu-item</value>
-      <webElementGuid>74abbf26-2b39-4835-a406-bf7aab1b35d3</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>/web/index.php/admin/viewAdminModule</value>
-      <webElementGuid>e60fa240-08a1-4f08-881d-2e8d9da21306</webElementGuid>
+      <value>oxd-topbar-body-nav-tab</value>
+      <webElementGuid>e83ebbd7-4f97-4100-a670-72e202aaa26e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Admin</value>
-      <webElementGuid>b41e7937-4047-4f96-b963-4e1b4f71dbcc</webElementGuid>
+      <value>Add Employee</value>
+      <webElementGuid>3e67a35c-49e3-47ca-9c2f-6c7862f05d4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-605cde4963e37af8dc5645b668ea621a</value>
-      <webElementGuid>e057393b-f503-4907-8dac-f5499e7c2aaa</webElementGuid>
+      <value>md5.v1-8887de90e91d0fa59d07f25dd09548b9</value>
+      <webElementGuid>ffe14ca7-cc4a-4c7d-9ff2-31fddf7652c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@href = '/web/index.php/admin/viewAdminModule']</value>
-      <webElementGuid>10a9230e-51c2-4ae9-a6d2-c78343e1d496</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-topbar-body-nav-tab ') and (position() = 3)]</value>
+      <webElementGuid>e9bc054a-dc88-4f1e-91bf-e35a9dc859d6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@href = '/web/index.php/admin/viewAdminModule']</value>
-      <webElementGuid>3efb76af-b24d-43ee-a79c-d5763d4454a5</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-topbar-body-nav-tab ') and (position() = 3)]</value>
+      <webElementGuid>66599722-cc58-48d6-bc6d-9b422270d943</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/web/index.php/admin/viewAdminModule' and (text() = 'Admin' or . = 'Admin')]</value>
-      <webElementGuid>4cbf5a0b-560f-4d0c-8857-03b690eb8834</webElementGuid>
+      <value>//li[(text() = 'Add Employee' or . = 'Add Employee')]</value>
+      <webElementGuid>c75993d5-f28b-4462-9a27-e73b97270cc0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

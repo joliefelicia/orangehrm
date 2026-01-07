@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Select</name>
+   <name>input_First Name</name>
    <tag></tag>
-   <elementGuidId>17b4daeb-a70f-458e-9083-a2ff0b57d14a</elementGuidId>
+   <elementGuidId>3428b4e0-f72e-4141-86ee-c215600ef4c4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>.oxd-grid-item--gutters:nth-child(1) .oxd-select-text-input</value>
+         <value>[name=&quot;firstName&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-grid-item--gutters ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-select-text-input ')]</value>
+         <value>//*[@name = 'firstName']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,63 +22,63 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>3a59483d-e2d1-44d7-a1b6-89813208cfae</webElementGuid>
+      <value>input</value>
+      <webElementGuid>063c9a88-1990-4306-95af-23d5a1433cab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>oxd-select-text-input</value>
-      <webElementGuid>f8a22bd0-b583-46e2-80e6-192a35cad23b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>0</value>
-      <webElementGuid>200f1c0c-1b3f-4c16-a1dd-50063c9da21c</webElementGuid>
+      <value>oxd-input oxd-input--active orangehrm-firstname</value>
+      <webElementGuid>a00b7fbe-afab-485d-93ba-44792c335850</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>name</name>
       <type>Main</type>
-      <value>-- Select --</value>
-      <webElementGuid>94c9d131-d6f9-47e5-ad3d-2b88fb4c823c</webElementGuid>
+      <value>firstName</value>
+      <webElementGuid>59fbcb96-138c-4a9e-9cb7-6f4e57f7d6bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>First Name</value>
+      <webElementGuid>1ea9b48e-055d-4bce-a376-61e62c239ab8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-5af2cf2cd34e175d3f21d3b3bb38d7ad</value>
-      <webElementGuid>48438f25-ad15-4a79-93ea-bc6ff1b8a2f7</webElementGuid>
+      <value>md5.v1-e493128018e732328f918e8acdd9d031</value>
+      <webElementGuid>414f8eb6-1657-437d-a937-1954c190e4b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-grid-item--gutters ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-select-text-input ')]</value>
-      <webElementGuid>0df15edb-fd13-4141-ad32-cca371953be6</webElementGuid>
+      <value>//*[@name = 'firstName']</value>
+      <webElementGuid>20a52a60-1c86-4d46-a5bc-4cfc7897d2af</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-grid-item--gutters ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-select-text-input ')]</value>
-      <webElementGuid>c9350b43-b0c0-466f-b277-e0be9c0d66e5</webElementGuid>
+      <value>//*[@name = 'firstName']</value>
+      <webElementGuid>0c292ac2-50c6-40dc-b2ee-2a6d145f652a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = '-- Select --' or . = '-- Select --')]</value>
-      <webElementGuid>6318d40c-57b1-4f6c-8b99-730f91cef475</webElementGuid>
+      <value>//input[@name = 'firstName' and @placeholder = 'First Name']</value>
+      <webElementGuid>d4e8849e-a2c4-468a-9c72-d9c26e22351a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

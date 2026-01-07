@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Select</name>
+   <name>div_Timothy Lewis Amiano</name>
    <tag></tag>
-   <elementGuidId>17b4daeb-a70f-458e-9083-a2ff0b57d14a</elementGuidId>
+   <elementGuidId>8fc2e2c7-36b9-4cbc-bf7d-fa5e94e16a58</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>.oxd-grid-item--gutters:nth-child(1) .oxd-select-text-input</value>
+         <value>.oxd-autocomplete-option:nth-child(2)</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-grid-item--gutters ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-select-text-input ')]</value>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-autocomplete-option ') and (position() = 2)]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,62 +23,62 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>3a59483d-e2d1-44d7-a1b6-89813208cfae</webElementGuid>
+      <webElementGuid>c4b972bd-7f61-4464-b718-5ed0a7abffdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>12156791-a63b-413b-8248-67eafedcc99a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>oxd-select-text-input</value>
-      <webElementGuid>f8a22bd0-b583-46e2-80e6-192a35cad23b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>0</value>
-      <webElementGuid>200f1c0c-1b3f-4c16-a1dd-50063c9da21c</webElementGuid>
+      <value>oxd-autocomplete-option</value>
+      <webElementGuid>615aaf2c-5e86-47c9-8398-70c3389c418f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>-- Select --</value>
-      <webElementGuid>94c9d131-d6f9-47e5-ad3d-2b88fb4c823c</webElementGuid>
+      <value>Timothy Lewis Amiano</value>
+      <webElementGuid>c99b73c0-471a-4da5-90de-a954894aa18b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-5af2cf2cd34e175d3f21d3b3bb38d7ad</value>
-      <webElementGuid>48438f25-ad15-4a79-93ea-bc6ff1b8a2f7</webElementGuid>
+      <value>md5.v1-f6efe4ba228d766159ad54b319d9b269</value>
+      <webElementGuid>6863690c-0581-417a-969e-bf76361ad58c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-grid-item--gutters ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-select-text-input ')]</value>
-      <webElementGuid>0df15edb-fd13-4141-ad32-cca371953be6</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-autocomplete-option ') and (position() = 2)]</value>
+      <webElementGuid>ea972c2b-e6b0-4df7-a7b6-9f21a9256d4e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-grid-item--gutters ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-select-text-input ')]</value>
-      <webElementGuid>c9350b43-b0c0-466f-b277-e0be9c0d66e5</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-autocomplete-option ') and (position() = 2)]</value>
+      <webElementGuid>4a65e04c-e548-4bf7-8cf2-e754c769fe59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = '-- Select --' or . = '-- Select --')]</value>
-      <webElementGuid>6318d40c-57b1-4f6c-8b99-730f91cef475</webElementGuid>
+      <value>//div[(text() = 'Timothy Lewis Amiano' or . = 'Timothy Lewis Amiano')]</value>
+      <webElementGuid>0697eb5a-6e55-49a4-8ba6-b6ec395585ae</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

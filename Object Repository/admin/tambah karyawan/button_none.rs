@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Admin</name>
+   <name>button_none</name>
    <tag></tag>
-   <elementGuidId>b8c50cd7-6b65-415a-877a-b770e4f8df96</elementGuidId>
+   <elementGuidId>b941e202-7b3f-4efa-b6aa-0beff852988e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>[href=&quot;\/web\/index\.php\/admin\/viewAdminModule&quot;]</value>
+         <value>.oxd-icon-button--solid-main</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@href = '/web/index.php/admin/viewAdminModule']</value>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-icon-button--solid-main ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,63 +22,63 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>bc8943fc-f094-4ff8-8c90-6bf97c47d794</webElementGuid>
+      <value>button</value>
+      <webElementGuid>49286875-cceb-4f7b-9852-6e00e016ac15</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>oxd-main-menu-item</value>
-      <webElementGuid>74abbf26-2b39-4835-a406-bf7aab1b35d3</webElementGuid>
+      <value>oxd-icon-button oxd-icon-button--solid-main employee-image-action</value>
+      <webElementGuid>59e4c6e9-117a-40fa-9a43-00fd357c044d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>type</name>
       <type>Main</type>
-      <value>/web/index.php/admin/viewAdminModule</value>
-      <webElementGuid>e60fa240-08a1-4f08-881d-2e8d9da21306</webElementGuid>
+      <value>button</value>
+      <webElementGuid>eb5d4d77-7f6f-4081-a02f-1a932239f01e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>role</name>
       <type>Main</type>
-      <value>Admin</value>
-      <webElementGuid>b41e7937-4047-4f96-b963-4e1b4f71dbcc</webElementGuid>
+      <value>none</value>
+      <webElementGuid>38cd1602-698b-48db-95b7-4507262140b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-605cde4963e37af8dc5645b668ea621a</value>
-      <webElementGuid>e057393b-f503-4907-8dac-f5499e7c2aaa</webElementGuid>
+      <value>md5.v1-e1216e32603fa8338fbc3b4272480f07</value>
+      <webElementGuid>c3f0adb2-b124-4432-95f7-989c922c2fb8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@href = '/web/index.php/admin/viewAdminModule']</value>
-      <webElementGuid>10a9230e-51c2-4ae9-a6d2-c78343e1d496</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-icon-button--solid-main ')]</value>
+      <webElementGuid>ae1c28d6-6e9e-4061-a278-11670273fd9d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@href = '/web/index.php/admin/viewAdminModule']</value>
-      <webElementGuid>3efb76af-b24d-43ee-a79c-d5763d4454a5</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-icon-button--solid-main ')]</value>
+      <webElementGuid>f3b4a998-3f4d-41bd-bda9-ac3aa485862f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/web/index.php/admin/viewAdminModule' and (text() = 'Admin' or . = 'Admin')]</value>
-      <webElementGuid>4cbf5a0b-560f-4d0c-8857-03b690eb8834</webElementGuid>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>5ccadfb4-cc2a-45b4-9407-6587548a5e1f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

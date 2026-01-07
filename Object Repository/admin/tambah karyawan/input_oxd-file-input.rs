@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Admin</name>
+   <name>input_oxd-file-input</name>
    <tag></tag>
-   <elementGuidId>b8c50cd7-6b65-415a-877a-b770e4f8df96</elementGuidId>
+   <elementGuidId>5c32e322-673a-4908-a0e0-da1683e9258d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>[href=&quot;\/web\/index\.php\/admin\/viewAdminModule&quot;]</value>
+         <value>.oxd-file-input</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@href = '/web/index.php/admin/viewAdminModule']</value>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-file-input ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,63 +22,55 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>bc8943fc-f094-4ff8-8c90-6bf97c47d794</webElementGuid>
+      <value>input</value>
+      <webElementGuid>8d9f2604-2727-4886-9398-744a5a4d7ad2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>file</value>
+      <webElementGuid>8d4529b9-90f6-47f8-8e00-81114fc171f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>oxd-main-menu-item</value>
-      <webElementGuid>74abbf26-2b39-4835-a406-bf7aab1b35d3</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>/web/index.php/admin/viewAdminModule</value>
-      <webElementGuid>e60fa240-08a1-4f08-881d-2e8d9da21306</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Admin</value>
-      <webElementGuid>b41e7937-4047-4f96-b963-4e1b4f71dbcc</webElementGuid>
+      <value>oxd-file-input</value>
+      <webElementGuid>35d801c5-b3de-442c-af8a-8b1f74dede36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-605cde4963e37af8dc5645b668ea621a</value>
-      <webElementGuid>e057393b-f503-4907-8dac-f5499e7c2aaa</webElementGuid>
+      <value>md5.v1-22297ec7ca1036b33fed33019f9d0f67</value>
+      <webElementGuid>668ac8e3-7354-4c33-bc56-1995035946f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@href = '/web/index.php/admin/viewAdminModule']</value>
-      <webElementGuid>10a9230e-51c2-4ae9-a6d2-c78343e1d496</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-file-input ')]</value>
+      <webElementGuid>98c55678-9b0f-4549-8e44-e747105bff80</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@href = '/web/index.php/admin/viewAdminModule']</value>
-      <webElementGuid>3efb76af-b24d-43ee-a79c-d5763d4454a5</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-file-input ')]</value>
+      <webElementGuid>dbc4d32a-d5c4-45e1-bbb1-c3071bb05da7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/web/index.php/admin/viewAdminModule' and (text() = 'Admin' or . = 'Admin')]</value>
-      <webElementGuid>4cbf5a0b-560f-4d0c-8857-03b690eb8834</webElementGuid>
+      <value>//input[@type = 'file']</value>
+      <webElementGuid>d3a2b35f-01a8-46ab-8f97-7ac33b34bfb0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Select</name>
+   <name>button_Save</name>
    <tag></tag>
-   <elementGuidId>17b4daeb-a70f-458e-9083-a2ff0b57d14a</elementGuidId>
+   <elementGuidId>6aa7ee16-9e1c-44b2-9367-f68f31ab957b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>.oxd-grid-item--gutters:nth-child(1) .oxd-select-text-input</value>
+         <value>.oxd-button--secondary</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-grid-item--gutters ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-select-text-input ')]</value>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-button--secondary ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,63 +22,63 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>3a59483d-e2d1-44d7-a1b6-89813208cfae</webElementGuid>
+      <value>button</value>
+      <webElementGuid>52670fc4-497c-4476-aac2-6cefd5aae668</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>1a9ce966-0b70-4f37-9206-67c86af8b015</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>oxd-select-text-input</value>
-      <webElementGuid>f8a22bd0-b583-46e2-80e6-192a35cad23b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>0</value>
-      <webElementGuid>200f1c0c-1b3f-4c16-a1dd-50063c9da21c</webElementGuid>
+      <value>oxd-button oxd-button--medium oxd-button--secondary orangehrm-left-space</value>
+      <webElementGuid>078e460b-4b98-4671-b447-d286afc0abaf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>-- Select --</value>
-      <webElementGuid>94c9d131-d6f9-47e5-ad3d-2b88fb4c823c</webElementGuid>
+      <value> Save </value>
+      <webElementGuid>a5c8dd8e-3d98-4789-84d8-6bb9c3b0d4cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-5af2cf2cd34e175d3f21d3b3bb38d7ad</value>
-      <webElementGuid>48438f25-ad15-4a79-93ea-bc6ff1b8a2f7</webElementGuid>
+      <value>md5.v1-dbd02158ff4b4d23410e342dc57dc1de</value>
+      <webElementGuid>edaaeb4a-e43e-4357-95f6-22907ecf8c4f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-grid-item--gutters ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-select-text-input ')]</value>
-      <webElementGuid>0df15edb-fd13-4141-ad32-cca371953be6</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-button--secondary ')]</value>
+      <webElementGuid>5d605f78-bab0-4209-ae76-20dae7c61c34</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-grid-item--gutters ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-select-text-input ')]</value>
-      <webElementGuid>c9350b43-b0c0-466f-b277-e0be9c0d66e5</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-button--secondary ')]</value>
+      <webElementGuid>0767e1cd-ec0d-4924-9003-5bb3df7e4751</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = '-- Select --' or . = '-- Select --')]</value>
-      <webElementGuid>6318d40c-57b1-4f6c-8b99-730f91cef475</webElementGuid>
+      <value>//button[@type = 'submit' and (text() = ' Save ' or . = ' Save ')]</value>
+      <webElementGuid>f6765a8b-6299-4e73-8ee1-8500af849618</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

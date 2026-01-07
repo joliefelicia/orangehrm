@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Password</name>
+   <name>input_oxd-input oxd-input-active_2</name>
    <tag></tag>
-   <elementGuidId>c95bd0b6-4c27-4adf-951b-29568c9eb90e</elementGuidId>
+   <elementGuidId>221226c8-7614-4b63-b763-4b687f45e530</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>[name=&quot;password&quot;]</value>
+         <value>.oxd-grid-item--gutters.oxd-grid-item[data-v-c93bdbf3=&quot;&quot;][data-v-a64d9b08=&quot;&quot;]:nth-child(2) [type=&quot;password&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@name = 'password']</value>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-grid-item--gutters ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-grid-item ') and (@data-v-c93bdbf3 = '') and (@data-v-a64d9b08 = '') and (position() = 2)]//*[@type = 'password']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9733aa0b-63b1-4b8c-afef-99b0649abca5</webElementGuid>
+      <webElementGuid>2d58aecf-1a1c-46e2-9db2-5b6342cc1289</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-input oxd-input--active</value>
-      <webElementGuid>ad39790c-4c44-4c73-a680-24aa123751da</webElementGuid>
+      <webElementGuid>8b80d966-59a8-4b9a-980e-12278058406c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,54 +39,46 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>99764d44-2474-4eac-be65-1cbfae952f72</webElementGuid>
+      <webElementGuid>5d67db42-89ae-48da-a68a-d0d8bac578a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>name</name>
+      <name>autocomplete</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>8b383d13-7058-40b8-8c32-f2bc61fdafed</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Password</value>
-      <webElementGuid>52f3686a-cdc8-4c62-bb37-0acf83fd7a89</webElementGuid>
+      <value>off</value>
+      <webElementGuid>3ac36885-c3bf-4981-9052-2593527e4275</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-c7773a9b427696d13ef2c51a10771732</value>
-      <webElementGuid>977c8cc6-c597-47f2-ae3c-3cce40520cd2</webElementGuid>
+      <value>md5.v1-f143db7ad2889c09133cd9f23a8d614b</value>
+      <webElementGuid>0e355ed8-f8cc-4ff6-be6f-5414b3ee9499</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@name = 'password']</value>
-      <webElementGuid>1d8e5933-e3dc-4106-8597-e0a737bd0e11</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-grid-item--gutters ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-grid-item ') and (@data-v-c93bdbf3 = '') and (@data-v-a64d9b08 = '') and (position() = 2)]//*[@type = 'password']</value>
+      <webElementGuid>ef7556b3-62a8-4f1a-aa94-362efc01ee94</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@name = 'password']</value>
-      <webElementGuid>e7dcc357-5da4-4822-ad57-b446925d5cfa</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-grid-item--gutters ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-grid-item ') and (@data-v-c93bdbf3 = '') and (@data-v-a64d9b08 = '') and (position() = 2)]//*[@type = 'password']</value>
+      <webElementGuid>73915b40-1a72-457f-a197-31e38e9cd85a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @name = 'password' and @placeholder = 'Password']</value>
-      <webElementGuid>c4c01044-9c93-4f73-97ce-383a646d1c4b</webElementGuid>
+      <value>//input[@type = 'password']</value>
+      <webElementGuid>0a8354c3-c357-4953-bc9c-02c69e03d4cd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
