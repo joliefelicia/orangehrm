@@ -25,6 +25,8 @@ WebUI.setText(findTestObject('admin/input_Username'), username)
 
 WebUI.setText(findTestObject('admin/input_Password'), password)
 
+WebUI.click(findTestObject('admin/button_Login'))
+
 WebUI.click(findTestObject('admin/a_Admin'))
 
 WebUI.setText(findTestObject('admin/input_oxd-input oxd-input-focus'), username)
