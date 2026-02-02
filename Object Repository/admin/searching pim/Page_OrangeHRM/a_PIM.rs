@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_PIM</name>
+   <tag></tag>
+   <elementGuidId>0c4a74bb-061b-4911-a0e7-1b087cfbeeb5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@href = '/web/index.php/pim/viewPimModule']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[href=&quot;\/web\/index\.php\/pim\/viewPimModule&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>eda73595-caa8-4a69-bfa5-9ce5dc782d77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-main-menu-item active</value>
+      <webElementGuid>6983c5bb-0ab3-4d2f-8a9a-1f9debf60fac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/web/index.php/pim/viewPimModule</value>
+      <webElementGuid>1eb62552-8b62-4249-81d2-3c5c8ea6e023</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PIM</value>
+      <webElementGuid>51af0b60-0349-41d4-af0b-b93f647b035a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-be9a63098bca0e58bf6aa5392b933731</value>
+      <webElementGuid>2fb5abb7-7e44-4baa-bbfb-3523b3e1c528</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@href = '/web/index.php/pim/viewPimModule']</value>
+      <webElementGuid>6cc692cd-1f37-4f0d-9d1e-aa74422c878a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@href = '/web/index.php/pim/viewPimModule']</value>
+      <webElementGuid>f2d407fa-04d9-4498-8ab5-b3752e849750</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/web/index.php/pim/viewPimModule' and (text() = 'PIM' or . = 'PIM')]</value>
+      <webElementGuid>19bfd458-2750-42ed-ac3a-49a5eac4e1eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
